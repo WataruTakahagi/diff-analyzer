@@ -1,6 +1,12 @@
 # diff-analyzer
 
-解析対象の指定
+解析対象ファイルの指定
 ```
 diff.center('target.tif')
 ```
+
+起動
+```
+python main.py
+```
+
