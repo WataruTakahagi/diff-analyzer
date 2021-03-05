@@ -15,6 +15,6 @@ python main.py
 
 選択されたポイントに基づき、最小二乗法で円近似したのち中心円がプロットされます。Debye-Scherrer Ringの中心に対応します。次に、解析したい中心-スポット間距離をマウスで選択してください。0をクリックして選択終了を宣言してください。
 ![LSA-carbon-1050mm1 tif_screenshot_06 03 2021](https://user-images.githubusercontent.com/7247018/110142750-d81d1980-7e19-11eb-9e88-875b68cd02e9.png)
-¥
+
 中心-スポット間距離がピクセル数で表示されます。
 ![Result-LSA](https://user-images.githubusercontent.com/7247018/110144157-5ded9480-7e1b-11eb-9a4d-22425707aeb2.png)
